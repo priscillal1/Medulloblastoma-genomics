@@ -1,0 +1,12 @@
+data/
+*.maf
+*.vcf
+*.csv
+*.tsv
+*.bam
+*.fastq
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
