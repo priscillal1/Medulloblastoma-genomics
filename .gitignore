@@ -1,0 +1,23 @@
+# Raw genomic and clinical data files
+data/
+*.gz
+*.txt
+*.tsv
+*.csv
+
+# Python and Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Whitelist: keep summary output CSVs
+!results/*.csv
